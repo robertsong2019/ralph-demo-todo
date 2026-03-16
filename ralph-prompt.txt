@@ -1,0 +1,25 @@
+你正在运行 Ralph BUILDING 循环。
+
+目标：开发一个 Python 命令行待办事项管理工具。
+
+上下文文件：
+- PROMPT.md（任务描述）
+- AGENTS.md（测试命令）
+- IMPLEMENTATION_PLAN.md（实施计划）
+
+任务：
+1) 选择最重要的任务
+2) 调查代码
+3) 实现
+4) 运行 AGENTS.md 中的 backpressure 命令
+5) 更新 IMPLEMENTATION_PLAN.md
+6) 更新 AGENTS.md（如果有新的学习）
+7) 用清晰的消息提交
+
+完成条件：
+当所有任务完成时，添加：STATUS: COMPLETE
+
+重要提示：
+- 每完成一个功能就测试
+- 遵循 AGENTS.md 中的测试命令
+- 保持代码简洁清晰
